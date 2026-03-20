@@ -3,25 +3,28 @@
 ---
 
 ## 👩‍🎓 About Me
-- 🎓 BE in CSE at JIT  
+- 🎓 B.E. in CS&E @ JITD  
 - 💻 Interested in **Project Building**  
 - 🐍 Passionate about **Python & AI/ML**  
 - 🚀 Currently learning **DSA**
 
 ---
 
-## 🛠️ Skills & Tools
+## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,vscode,git,github,streamlit" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,vscode,git,github,tensorflow" />
 </p>
 
-- 📦 NumPy  
-- 📊 Pandas  
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNN-DeepLearning-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats & 🔥 Streak
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Divyas-tech08&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -29,5 +32,3 @@
 </p>
 
 ---
-
-⭐️ From Divya S
