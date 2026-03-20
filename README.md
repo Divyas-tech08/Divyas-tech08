@@ -3,29 +3,17 @@
 ---
 
 ## 👩‍🎓 About Me
-- 🎓 BE in Computer Science (CSE) at JIT  
-- 💻 I am interested in **Project Building**  
-- 🐍 I am passionate about **Python & AI/ML**  
-- 🚀 Currently learning **Data Structures & Algorithms**  
-- 📚 Exploring **Real-world applications using**
+- 🎓 BE in CSE at JIT  
+- 💻 Interested in **Project Building**  
+- 🐍 Passionate about **Python & AI/ML**  
+- 🚀 Currently learning **DSA**
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java" />
-</p>
-
-### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-</p>
-
-### 📊 Libraries & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=streamlit" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,vscode,git,github,streamlit" />
 </p>
 
 - 📦 NumPy  
@@ -33,18 +21,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divyas-tech08&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Divyas-tech08&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ⭐️ From Divya S
