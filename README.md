@@ -1,18 +1,65 @@
-# 💫 About Me:
-student<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divya__s___4448) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Divya s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyas9743@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyas-tech723&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyas-tech723&layout=compact)
+<h1 align="center">Hi 👋, I'm Divya S</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Divyas-tech723&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍🎓 About Me
+- 🎓 BE in Computer Science (CSE) at JIT  
+- 💻 I am interested in **Project Building**  
+- 🐍 I am passionate about **Python & AI/ML**  
+- 🚀 Currently learning **Data Structures & Algorithms**  
+- 📚 Exploring **Real-world applications using APIs**
+
+---
+
+## 🛠️ Skills & Tools
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+### 📊 Libraries & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=streamlit" />
+</p>
+
+- 📦 NumPy  
+- 📊 Pandas  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Connect with me
+- 📧 Email: your-email@gmail.com  
+
+---
+
+⭐️ From Divya S
