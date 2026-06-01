@@ -5,7 +5,7 @@
 ## 👩‍🎓 About Me
 - 🎓 B.E. in CS&E @ JITD  
 - 🐍 Passionate about **Python & AI/ML**  
-- 🚀 Currently learning **DSA and  React**
+- 🚀 Currently learning **DSA**
 - 🌐 Exploring *Networking Concepts* and real-world systems
 - 🔍 Always curious to learn *new technologies and build real-world projects*
 
